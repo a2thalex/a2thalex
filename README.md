@@ -1,6 +1,6 @@
 # Gregory Reeves
 
-**Founder & Lead Developer at Inkwell Technology Studios**
+**Solutions Architect at Inkwell Technology Studios**
 
 ## About
 
