@@ -4,7 +4,7 @@
 
 ## About
 
-Building Inkwell Technology Studios in Los Angeles, CA. Focus on software development, creative tools, and enterprise solutions.
+Creating Solutions at Inkwell Technology Studios in Los Angeles, CA. Focus on software development, creative tools, and enterprise solutions.
 
 ## Projects
 
